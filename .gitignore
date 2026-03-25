@@ -60,3 +60,18 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+
+# System files
+.DS_Store
+
+# Build and temporary files
+build/
+DerivedData/
+*.xcuserstate
+
+# User Data
+xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# logs
+*.log
